@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I write what I interested in here. Especially, I write useful memo about development.
 baseurl: "/dev-web-log" # the subpath of your site, e.g. /blog
 url: "http://hikaru-orihara.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: nothing
+#️ twitter_username: nothing
 github_username:  hikaru-orihara
 
 # Build settings

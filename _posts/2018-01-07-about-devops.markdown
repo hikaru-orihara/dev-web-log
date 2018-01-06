@@ -11,11 +11,12 @@ Main OSS for `DevOps`:
 {% highlight ruby %}
 "Atlassian tools"
  Bamboo, Confluence, JIRA
-"Jenkins"
+"Other OSS"
+ Jenkins, GitHub
 # need more research
 {% endhighlight %}
 
-Check out the [What is DevOps][waht-is-devops] for more info on DevOps. In order to realize 'DevOps', you need to study agile mind. Check out the [Agile Blog][agile-blog].
+Check out the [What is DevOps][what-is-devops] for more info on DevOps. In order to realize 'DevOps', you need to study agile mind. Check out the [Agile Blog][agile-blog].
 
-[Wwaht-is-devops]: https://puppet.com/blog/what-is-devops
-[agile-blog]:   https://github.com/jekyll/jekyll
+[what-is-devops]: https://puppet.com/blog/what-is-devops
+[agile-blog]:   http://simplearchitect.hatenablog.com/entry/2017/10/16/081633
